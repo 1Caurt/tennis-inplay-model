@@ -82,11 +82,11 @@ standard library.
 
 ## Files
 
-- `tennis_model.py` — the model. Point, game, tiebreak, set, match, plus
-  devigging and EV helpers. No dependencies.
-- `mcp_backtest.py` — data loader, prior estimation, point-by-point replay,
+- `tennis_model.py` - point, game, tiebreak, set, match, plus
+  devigging and EV helpers.
+- `mcp_backtest.py` - data loader, prior estimation, point-by-point replay,
   chart.
-- `win_prob_curve.csv` — every point priced, both variants, as decimal odds.
+- `win_prob_curve.csv` - every point priced, both variants, as decimal odds.
 
 ## Caveats
 
